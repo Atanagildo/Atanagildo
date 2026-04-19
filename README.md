@@ -1,16 +1,42 @@
-## Hi there 👋
+# Olá, eu sou o Gildo 👋
 
-<!--
-**Atanagildo/Atanagildo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Engenharia de Software | Futuro Dev
 
-Here are some ideas to get you started:
+Sou estudante de Engenharia de Software na Unicesumar e estou construindo minha carreira em tecnologia do zero — com projetos reais, boas práticas e muita determinação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Moro em Casa Nova - BA e busco oportunidades em Petrolina - PE e Juazeiro - BA.
+
+---
+
+## 🚀 O que estou aprendendo
+
+- Lógica de programação e algoritmos
+- Python (iniciante)
+- Git & GitHub (controle de versão)
+- Engenharia de Software na prática
+
+---
+
+## 🎯 Objetivos para 2026
+
+- [ ] Criar meus primeiros projetos reais
+- [ ] Completar certificação no Coursera (Santander Open Academy)
+- [ ] Montar portfólio profissional no GitHub
+- [ ] Conseguir minha primeira oportunidade em tech
+
+---
+
+## 📜 Formação & Certificações
+
+- 🎓 Engenharia de Software — Unicesumar (2023 – 2027)
+- 📚 Santander | Skills for Work Full Access — Coursera *(em andamento)*
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atanagildo%20Santos-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/atanagildo-santos)
+
+---
+
+*"Cada linha de código é um passo a menos para o zero."*
